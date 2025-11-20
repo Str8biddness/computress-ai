@@ -1,0 +1,36 @@
+# Computress AI - Symbolic Intelligence System
+# Dependencies for consciousness modeling and sacred geometry
+
+# Core symbolic computation
+sympy>=1.12
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Sacred geometry and mathematical modeling
+matplotlib>=3.7.0
+pillow>=10.0.0
+
+# Agent framework
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+
+# Consciousness state management
+redis>=5.0.0
+aioredis>=2.0.1
+
+# Integration with AIOS Brain
+httpx>=0.25.0
+websockets>=12.0
+
+# Symbolic AI and reasoning
+networkx>=3.2
+python-dotenv>=1.0.0
+
+# Logging and monitoring
+loguru>=0.7.2
+prometheus-client>=0.19.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
