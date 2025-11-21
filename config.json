@@ -1,0 +1,23 @@
+{
+  "system": {
+    "name": "Computress AI",
+    "version": "1.0.0",
+    "description": "Consciousness Modeling AI System"
+  },
+  "api": {
+    "host": "0.0.0.0",
+    "port": 5000
+  },
+  "aios": {
+    "host": "localhost",
+    "port": 8080,
+    "timeout": 10
+  },
+  "consciousness": {
+    "default_awareness_state": "awake",
+    "attention_resources": 1.0
+  },
+  "logging": {
+    "level": "INFO"
+  }
+}
